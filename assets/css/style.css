@@ -262,4 +262,9 @@ ul {
   .main-section {
     margin-top: 50px;
   }
+
+  #logo {
+    margin-left: 0;
+  }
+
 }
