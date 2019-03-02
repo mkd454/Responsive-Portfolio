@@ -53,7 +53,7 @@ h3 {
 /* header */
 
 #masthead {
-  position: fixed;
+  position: static;
   z-index: 99;
   width: 100%;
   margin: 0 0 30px;
@@ -120,7 +120,7 @@ h3, h2 {
 /* main */
 
 #main-container {
-  padding-top: 130px;
+  padding-top: 0.5%;
   min-height: calc(100vh - 70px);
 }
 
